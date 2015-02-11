@@ -12,3 +12,6 @@ For now, the general outlines are these:
 Things I'll probably use are Sparkling Water and other nice thing from the Hadoop stack.
 
 Also, have to figure out the whole trading side of this thing.
+
+Disclaimer: these recipes are an exercise in configuring and teaching a machine. If you follow them, the machine you get will NOT get you rich by magic. I'm not to be held accountable for any losses resulting from using these things. Use at your own risk, and be warned!
+
